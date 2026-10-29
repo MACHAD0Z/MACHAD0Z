@@ -59,7 +59,7 @@ print(Dev().status())
 
 | Projeto | Descrição | Stack |
 |---|---|---|
-| 🎟️ [**StageInsp**](https://github.com/MACHAD0Z/COLOQUE-O-NOME-DO-REPO) | Sistema de ingressos para shows (meu TCC). Fui responsável pelo back-end e pela API de cadastros. | `MySQL` `API REST` |
+| 🎟️ [**StageInsp**](https://github.com/MACHAD0Z/stageinsp) | Sistema de ingressos para shows (meu TCC). Fui responsável pelo back-end e pela API de cadastros. | `MySQL` `API REST` |
 | 🗃️ [**Modelagem e Banco de Dados**](https://github.com/MACHAD0Z/COLOQUE-O-NOME-DO-REPO) | DER, dicionário de dados e documentação de um banco relacional. | `SQL` `DER` `HTML` |
 
 ---
