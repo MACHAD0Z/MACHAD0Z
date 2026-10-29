@@ -1,7 +1,6 @@
 <!-- Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Kauê%20%7C%20MACHAD0Z&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=dev%20em%20construção%20🚧%20compilando%20com%20sucesso&descAlignY=58&descSize=18" width="100%" alt="banner"/>
 
-
 ---
 
 ## 👾 whoami
@@ -11,7 +10,7 @@ class Dev:
     def __init__(self):
         self.nome = "Kauê"
         self.github = "MACHAD0Z"
-        self.formacao = "Técnico + graduação na UNICID"   # ajuste aqui
+        self.formacao = "Técnico + graduação na UNICID"
         self.foco = ["Python", "Banco de Dados", "Infraestrutura"]
         self.estudando = ["PySpark", "Desenvolvimento Seguro", "Cloud"]
         self.objetivo = "Conseguir minha vez no mercado de TI 💼"
@@ -56,23 +55,22 @@ print(Dev().status())
 | Projeto | Descrição | Stack |
 |---|---|---|
 | 🎟️ [**StageInsp**](https://github.com/MACHAD0Z/stageinsp) | Sistema de ingressos para shows (meu TCC). Fui responsável pelo back-end e pela API de cadastros. | `MySQL` `API REST` |
-| 🗃️ [**Modelagem e Banco de Dados**](https://github.com/MACHAD0Z/COLOQUE-O-NOME-DO-REPO) | DER, dicionário de dados e documentação de um banco relacional. | `SQL` `DER` `HTML` |
+| 🗃️ [**Modelagem e Banco de Dados**](https://github.com/mavisccp/bancodedados_terca) | DER, dicionário de dados e documentação de um banco relacional. | `SQL` `DER` `HTML` |
 
 ---
 
 ## 📊 Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=MACHAD0Z&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MACHAD0Z&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Linguagens" />
+  <img src="https://img.shields.io/github/followers/MACHAD0Z?style=for-the-badge&logo=github&color=203a43" alt="Seguidores" />
+  <img src="https://img.shields.io/github/last-commit/MACHAD0Z/stageinsp?style=for-the-badge&logo=git&logoColor=white&color=2c5364" alt="Último commit" />
 </p>
 
 ---
 
 ## 🤝 Bora conversar?
-
 <p>
-  <a href="https://www.linkedin.com/in/kaue-romaneto-960b313b7><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/kaue-romaneto-960b313b7"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:kaue.rmachado16@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
