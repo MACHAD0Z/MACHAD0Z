@@ -1,10 +1,6 @@
 <!-- Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Kauê%20%7C%20MACHAD0Z&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=dev%20em%20construção%20🚧%20compilando%20com%20sucesso&descAlignY=58&descSize=18" width="100%" alt="banner"/>
 
-<!-- Frase animada -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00E5A0&center=true&vCenter=true&width=600&lines=Olá%2C+mundo!+👋;Python+%7C+SQL+%7C+Infraestrutura;Transformando+café+em+código+☕;Sempre+aprendendo+algo+novo+🚀" alt="Typing SVG" />
-</p>
 
 ---
 
